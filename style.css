@@ -1,0 +1,55 @@
+@font-face{
+	font-family: lol;
+	src: url(rip.ttf);
+} 
+.text{
+	font-family: lol;
+}
+.box{
+height: 100px;	
+background: black;
+
+}
+.pop{
+	text-align: center;
+}
+
+.yupi{
+
+	height: 1000px;
+	width: 1000px;
+	background-image: url(nightsity.png) ;
+	background-size: 100% 100%;
+}
+.bg{
+background: red;
+}
+.mx-auto{
+	margin-right: auto;
+	margin-left: auto; 
+}
+.img-ck{
+	height: 1000px;
+	width: 1000px;
+	background: black;
+
+
+}
+.text-x{
+	color: white;
+}
+.tixt{
+	text-align: right;
+}
+.d-flex{
+	display: flex;
+}
+.w-500{
+	width: 500px;
+}
+.rert{
+	text-align: left;
+}
+.box-img{
+	background-image: url();
+}
